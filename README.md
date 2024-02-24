@@ -3,4 +3,4 @@ Esta web hecha con __python__ y __reflex__ cumple un objetivo puramente __educat
 Esta web esta para practicar y fortalecer mis conocimientos con el framework __reflex__ en python 
 
 ## Resultados visuales 👀
-![Texto alternativo]([https://repository-images.githubusercontent.com/557075997/1e6cdae1-92d5-4d10-8a21-f6c61f86113f])
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.
